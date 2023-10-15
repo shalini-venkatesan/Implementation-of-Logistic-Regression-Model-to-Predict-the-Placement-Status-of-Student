@@ -89,7 +89,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 #### Placement Data
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/aa995a2a-5d06-4627-8df2-36f998247017">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/a95ddd5d-0386-4586-acab-868de9061c93)
 
 #### Salary Data
 
