@@ -119,7 +119,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 #### Accuracy value
 
-<img width="85" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/d67cf828-ee2b-4e22-811a-53b22553e608">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/d67cf828-ee2b-4e22-811a-53b22553e608">
 
 #### Confusion matrix
 
