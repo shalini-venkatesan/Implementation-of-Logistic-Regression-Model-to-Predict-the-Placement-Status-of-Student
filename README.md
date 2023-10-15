@@ -89,33 +89,33 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 1.Placement Data
 
-<img width="419" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/aa995a2a-5d06-4627-8df2-36f998247017">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/aa995a2a-5d06-4627-8df2-36f998247017">
 
 2.Salary Data
 
-<img width="426" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/ae80d22c-4485-465f-aa44-1a044da3d72f">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/ae80d22c-4485-465f-aa44-1a044da3d72f">
 
 3. Checking the null function()
 
-<img width="103" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/9a0709af-4dc0-40e2-aee7-85f8d1949d62">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/9a0709af-4dc0-40e2-aee7-85f8d1949d62">
 
 4.Data Duplicate
 
-<img width="40" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/f7e5a2f3-6547-4e2a-9b24-849d249fecd8">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/f7e5a2f3-6547-4e2a-9b24-849d249fecd8">
 
 5.Print Data
 
-<img width="393" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/517e7058-f13f-433c-a2db-000c807f52a9">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/517e7058-f13f-433c-a2db-000c807f52a9">
 
-<img width="399" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/e8c0a32e-c59a-4178-add3-90aacc3be152">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/e8c0a32e-c59a-4178-add3-90aacc3be152">
 
 6.Data Status
 
-<img width="177" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/733b6c40-cdbd-4650-b5e7-e37e9afc70d1">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/733b6c40-cdbd-4650-b5e7-e37e9afc70d1">
 
 7.y_prediction array
 
-<img width="264" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/4303ec35-6123-4400-94cd-8cbc7449d8d0">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/4303ec35-6123-4400-94cd-8cbc7449d8d0">
 
 8.Accuracy value
 
@@ -123,15 +123,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 9.Confusion matrix
 
-<img width="98" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/5d60dd9e-9815-4c6c-85ca-e3de5ebd2a0e">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/5d60dd9e-9815-4c6c-85ca-e3de5ebd2a0e">
 
 10.Classification Report
 
-<img width="221" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/c6127853-ec9f-41af-80b9-df1316dff7d0">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/c6127853-ec9f-41af-80b9-df1316dff7d0">
 
 11.Prediction of LR
 
-<img width="536" alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/b17ec173-f112-4516-a5e8-cef746873cdb">
+<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/b17ec173-f112-4516-a5e8-cef746873cdb">
 
 
 ## Result:
