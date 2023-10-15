@@ -89,41 +89,45 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 #### Placement Data
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/a95ddd5d-0386-4586-acab-868de9061c93)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/c3415349-27c8-40d9-b979-4decfd10c1b4)
+
+
 
 #### Salary Data
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/ae80d22c-4485-465f-aa44-1a044da3d72f">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/e2b5b442-3a6e-4b6d-89e6-02a4989ae1ab)
 
 #### Checking the null function()
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/9a0709af-4dc0-40e2-aee7-85f8d1949d62">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/767d17ea-bf58-447d-975c-54de0b83fe16)
+
 
 #### Data Duplicate
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/f7e5a2f3-6547-4e2a-9b24-849d249fecd8">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/3e24abf0-7b30-4152-8aed-98d7e77f9ab9)
+
 
 #### Print Data
-
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/517e7058-f13f-433c-a2db-000c807f52a9">
-
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/e8c0a32e-c59a-4178-add3-90aacc3be152">
+##### Data Of X:
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1a72904c-78b1-42fa-8232-eef086fbc3c8)
+##### Data of Y:
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1ad59b44-11c6-4e8a-92d5-de07fad905e5)
 
 #### Data Status
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/733b6c40-cdbd-4650-b5e7-e37e9afc70d1">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/9b81baa1-be71-4983-8b05-221221d1c949)
 
 #### y_prediction array
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/4303ec35-6123-4400-94cd-8cbc7449d8d0">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/bf8783b2-a370-4b91-96df-c894f6cc4315)
 
 #### Accuracy value
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/d67cf828-ee2b-4e22-811a-53b22553e608">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/343df7b5-51fe-4de1-a51e-f96dc20bea47)
 
 #### Confusion matrix
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/5d60dd9e-9815-4c6c-85ca-e3de5ebd2a0e">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/7fafc04c-47c5-4943-8208-7ee6d4ef3d93)
 
 #### Classification Report
 
