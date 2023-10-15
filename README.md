@@ -99,43 +99,51 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 #### Checking the null function()
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/767d17ea-bf58-447d-975c-54de0b83fe16)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/12dd6a3a-1f4c-4da6-89c9-f90d57c5c6b3)
+
 
 
 #### Data Duplicate
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/3e24abf0-7b30-4152-8aed-98d7e77f9ab9)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/767d17ea-bf58-447d-975c-54de0b83fe16)
+
+
 
 
 #### Print Data
 ##### Data Of X:
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1a72904c-78b1-42fa-8232-eef086fbc3c8)
+
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/3e24abf0-7b30-4152-8aed-98d7e77f9ab9)
+
 ##### Data of Y:
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1ad59b44-11c6-4e8a-92d5-de07fad905e5)
+
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1a72904c-78b1-42fa-8232-eef086fbc3c8)
+
 
 #### Data Status
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/9b81baa1-be71-4983-8b05-221221d1c949)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/1ad59b44-11c6-4e8a-92d5-de07fad905e5)
+
 
 #### y_prediction array
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/bf8783b2-a370-4b91-96df-c894f6cc4315)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/9b81baa1-be71-4983-8b05-221221d1c949)
 
 #### Accuracy value
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/343df7b5-51fe-4de1-a51e-f96dc20bea47)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/bf8783b2-a370-4b91-96df-c894f6cc4315)
 
 #### Confusion matrix
 
-![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/7fafc04c-47c5-4943-8208-7ee6d4ef3d93)
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/343df7b5-51fe-4de1-a51e-f96dc20bea47)
 
 #### Classification Report
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/c6127853-ec9f-41af-80b9-df1316dff7d0">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/7fafc04c-47c5-4943-8208-7ee6d4ef3d93)
 
 #### Prediction of LR
 
-<img alt="image" src="https://github.com/JoyceBeulah/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118343698/b17ec173-f112-4516-a5e8-cef746873cdb">
+![image](https://github.com/shalini-venkatesan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118720291/af6f24fe-9bde-478f-89fd-72ea5bdd5a44)
 
 
 ## Result:
